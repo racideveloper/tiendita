@@ -34,7 +34,7 @@
   margin-bottom: 5px;
 }
 
-.form-group input, .form-group select {
+.form-group input{
   width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
@@ -75,18 +75,6 @@
 
 .table tbody tr:hover {
   background-color: #f9f9f9;
-}
-
-select {
-  appearance: none;
-  -webkit-appearance: none; /* Safari & Chrome */
-  -moz-appearance: none; /* Firefox */
-  background-color: white;
-  border: 1px solid #ccc;
-  padding: 10px;
-  border-radius: 4px;
-  font-size: 1rem;
-  width: 100%;
 }
 
 /* Responsivo */
