@@ -214,8 +214,7 @@ function llenarComboDeudores() {
 
 // Llenar el combobox al cargar la página
 window.onload = function() {
-  llenarComboDeudores();
-  mostrarClientes(); // Si ya tienes esta función para mostrar la lista de clientes
+  llenarComboDeudores(); // Si ya tienes esta función para mostrar la lista de clientes
 };
 
 
